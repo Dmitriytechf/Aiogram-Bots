@@ -1,5 +1,6 @@
 import logging
 import os
+
 from dotenv import load_dotenv
 from aiogram import Bot, Dispatcher, types, F
 from aiogram.filters import Command, CommandStart
@@ -122,12 +123,12 @@ async def play_game_cube(message: types.Message):
 async def play_game_basketball(message: types.Message):
     await message.answer('Давайте сыграем в баскетбол. Ну что ж, поехали')
     await sleep(1)
-    
+
     await message.answer("🏀 Бот бросает...")
     bot_throw = await message.answer_dice(emoji="🏀")
     bot_score = bot_throw.dice.value
     await sleep(4)
-    
+
     await message.answer("🏀 Ваш бросок...")
     await sleep(1)
     player_throw = await message.answer_dice(emoji="🏀")
