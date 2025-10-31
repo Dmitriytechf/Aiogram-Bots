@@ -48,8 +48,8 @@
 *Получайте точную погоду прямо в Telegram - быстро и удобно!*
 
 <div align="center">
-  <img width="280" height="550" alt="Погода сегодня" src="https://github.com/user-attachments/assets/480bda2d-f5a6-4dad-b19e-cd097f7cc29a" style="margin: 10px;" />
-  <img width="280" height="550" alt="Прогноз на неделю" src="https://github.com/user-attachments/assets/3961d06d-ee7a-4490-9d55-b97248cf2f8f" style="margin: 10px;" />
+  <img width="495" height="747" alt="Погода сегодня" src="https://github.com/user-attachments/assets/480bda2d-f5a6-4dad-b19e-cd097f7cc29a" />
+  <img width="495" height="747" alt="Прогноз на неделю" src="https://github.com/user-attachments/assets/3961d06d-ee7a-4490-9d55-b97248cf2f8f" />
 </div>
 
 
