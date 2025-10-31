@@ -36,6 +36,9 @@
 
 *Подойдет для всех поклонников франшизы!*
 
+<img width="408" height="747" alt="image" src="https://github.com/user-attachments/assets/480bda2d-f5a6-4dad-b19e-cd097f7cc29a" />
+<img width="495" height="681" alt="image" src="https://github.com/user-attachments/assets/3961d06d-ee7a-4490-9d55-b97248cf2f8f" />
+
 
 ## 🚀 Установка и запуск
 
